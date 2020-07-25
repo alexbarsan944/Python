@@ -180,4 +180,12 @@ def nine(lst: list()):
                 lst[j] = aux
     print(lst)
 
+def nineV2(lst: list()):
+    lstRet = []
+    for i in sorted(lst, key=lambda x: x[1][2]):
+        lstRet.append(i)
+    print(lstRet)
+
+
+nineV2([('abc', 'bcd'), ('abc', 'zza')])
 # nine([('abc', 'bcd'), ('abc', 'zza')])
