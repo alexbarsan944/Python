@@ -40,6 +40,7 @@ def apply_operator(operator, a, b):
         return "Invalid operator"
 
 
+
 # print(apply_operator("/", 5, 0))
 # print(apply_operator("*", 5, a))
 
