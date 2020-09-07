@@ -1,0 +1,123 @@
+{'ALLUSERSPROFILE': 'C:\\ProgramData',
+ 'APPDATA': 'C:\\Users\\Alex\\AppData\\Roaming',
+ 'COMMONPROGRAMFILES': 'C:\\Program '
+                       'Files\\Common '
+                       'Files',
+ 'COMMONPROGRAMFILES(X86)': 'C:\\Program '
+                            'Files '
+                            '(x86)\\Common '
+                            'Files',
+ 'COMMONPROGRAMW6432': 'C:\\Program '
+                       'Files\\Common '
+                       'Files',
+ 'COMPUTERNAME': 'DESKTOP-RVDR1LR',
+ 'COMSPEC': 'C:\\WINDOWS\\system32\\cmd.exe',
+ 'CUDA_PATH': 'C:\\Program '
+              'Files\\NVIDIA '
+              'GPU '
+              'Computing '
+              'Toolkit\\CUDA\\v10.1',
+ 'CUDA_PATH_V10_1': 'C:\\Program '
+                    'Files\\NVIDIA '
+                    'GPU '
+                    'Computing '
+                    'Toolkit\\CUDA\\v10.1',
+ 'DRIVERDATA': 'C:\\Windows\\System32\\Drivers\\DriverData',
+ 'GAMEFIRST': 'C:\\Program '
+              'Files '
+              '(x86)\\ASUS\\GameFirst\\',
+ 'GAMEFIRSTUSERPATH': 'C:\\Users\\Alex\\AppData\\Local\\ASUS\\GameFirst',
+ 'HOMEDRIVE': 'C:',
+ 'HOMEPATH': '\\Users\\Alex',
+ 'IDEA_INITIAL_DIRECTORY': 'C:\\WINDOWS\\System32',
+ 'IPYTHONENABLE': 'True',
+ 'LOCALAPPDATA': 'C:\\Users\\Alex\\AppData\\Local',
+ 'LOGONSERVER': '\\\\DESKTOP-RVDR1LR',
+ 'NUMBER_OF_PROCESSORS': '8',
+ 'NVCUDASAMPLES10_1_ROOT': 'C:\\ProgramData\\NVIDIA '
+                           'Corporation\\CUDA '
+                           'Samples\\v10.1',
+ 'NVCUDASAMPLES_ROOT': 'C:\\ProgramData\\NVIDIA '
+                       'Corporation\\CUDA '
+                       'Samples\\v10.1',
+ 'NVTOOLSEXT_PATH': 'C:\\Program '
+                    'Files\\NVIDIA '
+                    'Corporation\\NvToolsExt\\',
+ 'ONEDRIVE': 'C:\\Users\\Alex\\OneDrive',
+ 'OS': 'Windows_NT',
+ 'PATH': 'C:\\Program '
+         'Files\\NVIDIA '
+         'GPU '
+         'Computing '
+         'Toolkit\\CUDA\\v10.1\\bin;C:\\Program '
+         'Files\\NVIDIA '
+         'GPU '
+         'Computing '
+         'Toolkit\\CUDA\\v10.1\\libnvvp;C:\\Program '
+         'Files '
+         '(x86)\\Common '
+         'Files\\Oracle\\Java\\javapath;C:\\oraclexe\\app\\oracle\\product\\11.2.0\\server\\bin;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program '
+         'Files\\NVIDIA '
+         'Corporation\\NVIDIA '
+         'NvDLISR;C:\\Program '
+         'Files '
+         '(x86)\\NVIDIA '
+         'Corporation\\PhysX\\Common;C:\\Program '
+         'Files\\Git\\cmd;C:\\Program '
+         'Files\\nodejs\\;C:\\Program '
+         'Files\\NVIDIA '
+         'Corporation\\Nsight '
+         'Compute '
+         '2019.4.0\\;C:\\Users\\Alex\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Alex\\AppData\\Local\\Programs\\MiKTeX '
+         '2.9\\miktex\\bin\\x64\\;C:\\Users\\Alex\\AppData\\Local\\Programs\\Microsoft '
+         'VS '
+         'Code\\bin;C:\\Users\\Alex\\AppData\\Local\\atom\\bin;C:\\Users\\Alex\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\Alex\\AppData\\Roaming\\npm',
+ 'PATHEXT': '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC',
+ 'PROCESSOR_ARCHITECTURE': 'AMD64',
+ 'PROCESSOR_IDENTIFIER': 'Intel64 '
+                         'Family '
+                         '6 '
+                         'Model '
+                         '158 '
+                         'Stepping '
+                         '10, '
+                         'GenuineIntel',
+ 'PROCESSOR_LEVEL': '6',
+ 'PROCESSOR_REVISION': '9e0a',
+ 'PROGRAMDATA': 'C:\\ProgramData',
+ 'PROGRAMFILES': 'C:\\Program '
+                 'Files',
+ 'PROGRAMFILES(X86)': 'C:\\Program '
+                      'Files '
+                      '(x86)',
+ 'PROGRAMW6432': 'C:\\Program '
+                 'Files',
+ 'PSMODULEPATH': 'C:\\Program '
+                 'Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules',
+ 'PUBLIC': 'C:\\Users\\Public',
+ 'PYCHARM_DISPLAY_PORT': '63342',
+ 'PYCHARM_HOSTED': '1',
+ 'PYCHARM_MATPLOTLIB_INDEX': '0',
+ 'PYCHARM_MATPLOTLIB_INTERACTIVE': 'true',
+ 'PYDEVD_LOAD_VALUES_ASYNC': 'True',
+ 'PYTHONIOENCODING': 'UTF-8',
+ 'PYTHONPATH': 'C:\\Users\\Alex\\Documents\\GitHub\\Python\\Python;C:\\Program '
+               'Files\\JetBrains\\PyCharm '
+               '2020.1.2\\plugins\\python\\helpers\\pycharm_matplotlib_backend;C:\\Program '
+               'Files\\JetBrains\\PyCharm '
+               '2020.1.2\\plugins\\python\\helpers\\pycharm_display;C:\\Program '
+               'Files\\JetBrains\\PyCharm '
+               '2020.1.2\\plugins\\python\\helpers\\third_party\\thriftpy;C:\\Program '
+               'Files\\JetBrains\\PyCharm '
+               '2020.1.2\\plugins\\python\\helpers\\pydev',
+ 'PYTHONUNBUFFERED': '1',
+ 'SESSIONNAME': 'Console',
+ 'SYSTEMDRIVE': 'C:',
+ 'SYSTEMROOT': 'C:\\WINDOWS',
+ 'TEMP': 'C:\\Users\\Alex\\AppData\\Local\\Temp',
+ 'TMP': 'C:\\Users\\Alex\\AppData\\Local\\Temp',
+ 'USERDOMAIN': 'DESKTOP-RVDR1LR',
+ 'USERDOMAIN_ROAMINGPROFILE': 'DESKTOP-RVDR1LR',
+ 'USERNAME': 'Alex',
+ 'USERPROFILE': 'C:\\Users\\Alex',
+ 'WINDIR': 'C:\\WINDOWS'}
